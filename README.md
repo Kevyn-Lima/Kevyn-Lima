@@ -79,5 +79,6 @@ Here are some ideas to get you started:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kevyn-lima&repo=realRedes&bg_color=0D1117&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/kevyn-lima/realRedes)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kevyn-lima&repo=Ecommerce&bg_color=0D1117&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/kevyn-lima/Ecommerce)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kevyn-lima&repo=projetoBlogging&bg_color=0D1117&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/kevyn-lima/projetoBlogging)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kevyn-lima&repo=lojaGamer&bg_color=0D1117&border_color=FFF&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=FFF)](https://github.com/kevyn-lima/lojaGamer)
 
 ##
