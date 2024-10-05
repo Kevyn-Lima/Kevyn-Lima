@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kevyn-lima&theme=rising-sun&background=0D1117&border=FFF&dates=e38a44)](https://git.io/streak-stats)
 
-<br>
+
 
 ## 🗂️ Meus repositórios principais:
 
