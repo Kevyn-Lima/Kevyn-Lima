@@ -67,7 +67,8 @@ Here are some ideas to get you started:
 
 ## 📊 Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevyn-lima&layout=compact&langs_count=6&bg_color=0D1117&title_color=fff&text_color=FFF"/> [![GitHub Streak](https://streak-stats.demolab.com/?user=kevyn-lima&theme=rising-sun&background=0D1117&border=FFF&dates=e38a44)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kevyn-lima&theme=rising-sun&background=0D1117&border=FFF&dates=e38a44)](https://git.io/streak-stats)<br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevyn-lima&layout=compact&langs_count=6&bg_color=0D1117&title_color=fff&text_color=FFF"/>
 
 <br>
 
