@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=242b96&text=FullStack%20|%20FrontEnd&textBg=false&fontColor=ffff" width="1000" style="vertical-align: middle;">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=242b96&text=FullStack%20|%20FrontEnd&textBg=false&fontColor=ffff" width="1000" style="vertical-align: middle;">
  
 ## 💻Kevyn Lima
 - Formado em Analise e desenvolvimento de sistemas, estou em uma jornada continua para conseguir atuar como desenvolvedor front-end ou fullstack com foco nas tecnologias **JavaScript, typecript, Java, React e NodeJS**.
